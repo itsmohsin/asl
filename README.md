@@ -1,2 +1,2 @@
 # asl
-American Sign Language
+American Sign Language Alphabet
